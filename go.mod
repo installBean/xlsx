@@ -1,4 +1,4 @@
-module github.com/tealeg/xlsx/v3
+module github.com/installBean/xlsx
 
 go 1.14
 
